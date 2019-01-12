@@ -1,2 +1,2 @@
 # iceb
-Devloper Manoranjan K 
+Developer Manoranjan K 
