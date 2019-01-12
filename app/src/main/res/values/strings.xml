@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ICE B Diary</string>
+    <string name="time">Timetable</string>
+    <string name="notes">Task</string>
+    <string name="Attendance">Attendance</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+
+    <string name="tab_text_1">Mon</string>
+    <string name="tab_text_2">Tue</string>
+    <string name="tab_text_3">Wed</string>
+    <string name="tab_text_4">Thur</string>
+    <string name="tab_text_5">Fri</string>
+    <string name="tab_text_6">Sat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sub_7">INDUSTRIAL INSTRUMENTATION </string>
+    <string name="sub_2">MICROPROCESSORS AND MICROCONTROLLERS </string>
+    <string name="sub_3">ANALOG SIGNAL PROCESSING  </string>
+    <string name="sub_4">NUMERICAL METHODS  </string>
+    <string name="sub_5">SIGNALS AND SYSTEMS  </string>
+    <string name="sub_6">DATA STRUCTURES AND ALGORITHMS  </string>
+    <string name="sub_8">Minor</string>
+    <string name="sub_9">....</string>
+    <string name="sub_10">SENSORS AND TRANSDUCERS LABORATORY/ANALOG SIGNAL PROCESSING LABORATORY</string>
+    <string name="sub_11">LABORATORY</string>
+    <string name="error">You have to attend 0 class</string>
+    <string name="title_activity_timrtableact">timrtableact</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_subjectdet">Subject Details</string>
+    <string name="large_text">
+         "MAIR43\nNumerical Methods\nL:3\nT:0\nP:0\nCredit:3\nDr.A.Purusothaman\nDept of Mathematics\n\n\n"
+         "ICPC16\nSignals and Systems\nL:3\nT:0\nP:0\nCredit:3\nDr.P.A.Karthick\n\n\n"
+         "ICPC17\nIndustrial Instrumentation\nL:3\nT:0\nP:0\nCredit:3\nDr.B.Vasuki\n\n\n"
+         "ICPC18\nAnalog Signal Processing\nL:3\nT:0\nP:0\nCredit:3\nDr.C.Geetha\n\n\n"
+         "ICPC20\nMicroprocessors and Microcontrollers\nL:3\nT:0\nP:0\nCredit:3\nMs.V.Sridevi\n\n\n"
+         "CSMI11\nData Structure and Algorithm (Minor)\nL:3\nT:0\nP:0\nCredit:3\nDept of CSE\n\n\n"
+         "ICLR12\nSensors and Transducers Laboratory (Venue: 2nd floor VI Lab)\nL:0\nT:0\nP:2\nCredit:2\nDr.P.A.Karthick; Ms. K. Lakshmi\nTF/ICE\n\n\n"
+         "ICLR13\nAnalog Signal Processing Laboratory (Venue: 1st Floor Electronics Lab)\nL:0\nT:0\nP:2\nCredit:2\nDr.C.Geetha; Mr. Karthick P\n TF/ICE\n"
+</string>
+
+
+</resources>
